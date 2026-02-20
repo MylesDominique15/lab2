@@ -47,7 +47,7 @@ export default function Interests() {
               </h2>
               <div className={`h-1 w-12 rounded-full bg-gray-600 transition-all duration-500 group-hover:w-24 ${interest.bg.replace('/10', '')}`}></div>
               
-              {/* Added Description */}
+              {/* description */}
               <p className="px-6 text-center text-sm text-gray-300 opacity-0 transition-opacity duration-500 group-hover:opacity-100">
                 {interest.description}
               </p>
