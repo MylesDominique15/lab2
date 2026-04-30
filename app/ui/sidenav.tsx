@@ -31,7 +31,7 @@ export default function SideNav() {
         {/* Nickname Text */}
         <div className="flex flex-col overflow-hidden transition-all duration-300 group-hover:translate-x-1">
           <span className="text-xs font-medium uppercase tracking-widest text-gray-400">
-            about me!
+            argh me!
           </span>
           <span className="truncate text-xl font-bold tracking-wider text-pastel-yellow md:text-2xl">
             mais 🌽
